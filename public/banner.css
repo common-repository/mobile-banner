@@ -1,0 +1,17 @@
+div.mobile-banner-div {
+	position: fixed;
+	bottom: 0px;
+	z-index: 99999;
+	width: 100%;
+	/* Set display to inline-block and set line-height to same as height to have text vertically centred */
+	display: inline-block;
+}
+
+p.mobile-banner-p {
+	margin: 0px;
+	text-align: center;
+}
+
+#mobile-banner-close {
+	float:right;
+}

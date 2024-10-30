@@ -1,0 +1,165 @@
+# Blank WordPress Pot
+# Copyright 2014 ...
+# This file is distributed under the GNU General Public License v3 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: "
+"Mobile Banner v1.8\n"
+"Report-Msgid-Bugs-To: "
+"Translator Name "
+"<translations@example."
+"com>\n"
+"POT-Creation-Date: "
+"2024-10-29 20:50+0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Your "
+"Name <you@example.com>\n"
+"Language-Team: Author "
+"Help (contact@authorhelp."
+"uk)\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/"
+"plain; charset=UTF-8\n"
+"Content-Transfer-"
+"Encoding: 8bit\n"
+"Plural-Forms: "
+"nplurals=2; plural=n != "
+"1;\n"
+"X-Textdomain-Support: "
+"yesX-Generator: Poedit "
+"1.6.4\n"
+"X-Poedit-SourceCharset: "
+"UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;esc_html_e;"
+"esc_html_x:1,2c;"
+"esc_html__;esc_attr_e;"
+"esc_attr_x:1,2c;"
+"esc_attr__;_ex:1,2c;"
+"_nx:4c,1,2;"
+"_nx_noop:4c,1,2;_x:1,2c;"
+"_n:1,2;_n_noop:1,2;"
+"__ngettext:1,2;"
+"__ngettext_noop:1,2;_c,"
+"_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit "
+"3.4.2\n"
+"X-Poedit-"
+"SearchPath-0: .\n"
+
+#: admin/settings.php:9
+msgid ""
+"You do not have "
+"sufficient permissions "
+"to access this page."
+msgstr ""
+
+#: admin/settings.php:121
+msgid "Settings saved."
+msgstr ""
+
+#: admin/settings.php:125
+msgid ""
+"Mobile Banner Settings"
+msgstr ""
+
+#: admin/settings.php:131
+msgid "Background colour"
+msgstr ""
+
+#: admin/settings.php:137
+msgid "Text colour"
+msgstr ""
+
+#: admin/settings.php:137
+msgid ""
+"CSS colour name or RGB "
+"value (eg #6B97D0)"
+msgstr ""
+
+#: admin/settings.php:143
+msgid "Text"
+msgstr ""
+
+#: admin/settings.php:143
+msgid ""
+"Plain text only. No HTML."
+msgstr ""
+
+#: admin/settings.php:149
+msgid ""
+"Maximum width (pixels)"
+msgstr ""
+
+#: admin/settings.php:149
+msgid ""
+"Banner is not shown if "
+"the screen is wider than "
+"this."
+msgstr ""
+
+#: admin/settings.php:155
+msgid ""
+"Banner height (pixels)"
+msgstr ""
+
+#: admin/settings.php:155
+msgid ""
+"The height of the "
+"banner. Leave blank for "
+"default."
+msgstr ""
+
+#: admin/settings.php:162
+msgid ""
+"IDs of pages and posts "
+"where the banner should "
+"not be displayed. Enter "
+"one ID per line."
+msgstr ""
+
+#: admin/settings.php:177
+msgid "URL to link to"
+msgstr ""
+
+#: admin/settings.php:177
+msgid "Including"
+msgstr ""
+
+#: admin/settings.php:177
+msgid "or"
+msgstr ""
+
+#: admin/settings.php:183
+msgid ""
+"Open link in new tab."
+msgstr ""
+
+#: admin/settings.php:190
+msgid ""
+"Show a close button (20 "
+"pixels tall)"
+msgstr ""
+
+#: admin/settings.php:196
+msgid "Days to hide"
+msgstr ""
+
+#: admin/settings.php:196
+msgid ""
+"When a user closes the "
+"banner, it will not be "
+"displayed again for this "
+"many days."
+msgstr ""
+
+#: admin/settings.php:204
+msgid "Save Changes"
+msgstr ""
+
+#: mobile-banner.php:66
+msgid "Settings"
+msgstr ""

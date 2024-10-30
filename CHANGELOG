@@ -1,0 +1,38 @@
+v1.8
+
+* Code improvements
+
+v1.7
+
+* Added setting to define pages/posts where banner should not be displayed.
+
+v1.6
+
+* Security bug fix release. Fixes CSRF vulnerabilitiy which allowed attacker to trick admin user into changing settings.
+
+v1.5
+
+* Added "Open link in new tab" option
+
+v1.4
+
+* Added an optional close button
+
+v1.3
+
+* Added option to set banner height
+* i18n bug fixes
+
+v1.2
+
+* Most styling is moved to an external CSS file
+* Added class mobile-banner-p to allow more customising of CSS
+
+v1.1
+
+* Added class mobile-banner-div to allow custom CSS
+* Minified JavaScript
+
+v1.0
+
+* Initial release
